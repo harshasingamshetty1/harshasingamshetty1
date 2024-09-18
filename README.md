@@ -4,7 +4,6 @@ Hello! 👋 This is Harsha Singamshetty
 A Fullstack Blockchain Developer
 ------------------------------
 
-* 🖥️  You can checkout my portfolio at [harsha-portfolio](http://harsha-portfolio-chi.vercel.app/)
 * ✉️  You can contact me at [harshasingamshetty1@gmail.com](mailto:harshasingamshetty1@gmail.com)
 * 🤝  Open for collaborating on Open source projects
 
