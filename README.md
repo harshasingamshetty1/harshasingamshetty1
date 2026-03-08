@@ -1,7 +1,7 @@
 Hello! 👋 This is Harsha Singamshetty
 ====================================
 
-A Fullstack Blockchain Developer
+A Fullstack Software Developer
 ------------------------------
 
 * ✉️  You can contact me at [harshasingamshetty1@gmail.com](mailto:harshasingamshetty1@gmail.com)
